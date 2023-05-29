@@ -2,6 +2,8 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=4ndymcfly.4ndymcfly)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4ndymcfly&theme=github_dark&show_icons=true)
+
 <!--
 **4ndymcfly/4ndymcfly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

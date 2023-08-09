@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Andy !
 
-I'm a Spanish sysadmin, I love the world of ethical hacking and I'm currently working hard on the OSCP certification. I would like to work someday in the world of pentesting and offensive security. 
+Spanish sysadmin who loves the world of ethical hacking. Currently working hard on the OSCP certification. I'd love to work in the field of pentesting and offensive security someday in the near future.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=4ndymcfly.4ndymcfly)
 

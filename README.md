@@ -4,7 +4,7 @@ Spanish SysAdmin who loves the world of ethical hacking. Currently working hard 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=4ndymcfly.4ndymcfly)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=github-readme-stats&theme=github_dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4ndymcfly&theme=github_dark&show_icons=true)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4ndymcfly&theme=github_dark)
 
 <!--

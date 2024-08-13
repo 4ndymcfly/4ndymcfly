@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Andrés !
 
-Spanish SysAdmin who loves the world of ethical hacking. Currently working hard on the OSCP certification. I'd love to work on pentesting and offensive security in the near future.
+Spanish SysAdmin who loves the world of ethical hacking. 42 Málaga Student. Currently working hard on the OSCP certification. I'd love to work on pentesting and offensive security in the near future.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=4ndymcfly.4ndymcfly)
 

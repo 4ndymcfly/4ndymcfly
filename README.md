@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://hackingepico.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-hackingepico.com-blue?style=flat&logo=google-chrome"></a>
+  <a href="https://hackingepico.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/hackingepico.com-blue?style=for-the-badge&logo=github"></a>
 </p>
 
 <br>

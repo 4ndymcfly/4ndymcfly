@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">, I'm <a href="https://www.linkedin.com/in/andres-lorente/">Andrés Lorente</a> (Aka. 4ndymcfly)</h1>
 
-<h3 align="center">🔵 SysAdmin / 🖥 Jr. Pentester - eJPTv2 / 📚 42 Málaga Student / 💪 Road to OSCP</h3>
+<h4 align="center">🔵 SysAdmin / 🖥 Jr. Pentester - eJPTv2 / 📚 42 Málaga Student / 💪 Road to OSCP</h3>
 
-<h3 align="center">Spanish SysAdmin who loves the world of ethical hacking. 42 Málaga Student. Currently working hard on the OSCP certification. I'd love to work on pentesting and offensive security in the near future.</h3>
+<h4 align="center">Spanish SysAdmin who loves the world of ethical hacking. 42 Málaga Student. Currently working hard on the OSCP certification. I'd love to work on pentesting and offensive security in the near future.</h3>
 
 <br>
 

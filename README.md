@@ -18,7 +18,7 @@
 
 <br>
 
-<p align="right">
+<p align="center">
   <a href=""><img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=4ndymcfly.4ndymcfly"></a>
 </p>
 

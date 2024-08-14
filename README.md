@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">, I'm <a href="https://www.linkedin.com/in/andres-lorente/">Andrés Lorente</a> (Aka. 4ndymcfly)</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">, I'm <a href="https://www.linkedin.com/in/andres-lorente/">Andrés Lorente</a></h1>
 
 <h3 align="center">🔵 SysAdmin / 🖥 Jr. Pentester - eJPTv2 / 📚 42 Málaga Student / 💪 Road to OSCP</h3>
 

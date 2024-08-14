@@ -10,8 +10,13 @@
   <a href="https://hackingepico.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/hackingepico.com-blue?style=for-the-badge&logo=github"></a>
 </p>
 
-<br>
+<p align="center">
+  <a href="https://app.hackthebox.com/profile/1357718" target="_blank">
+    <img src="http://www.hackthebox.eu/badge/image/1357718" alt="HackTheBox">
+  </a>
+</p>
 
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4ndymcfly&theme=github_dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ndymcfly&theme=github_dark)

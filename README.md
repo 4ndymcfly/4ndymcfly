@@ -10,18 +10,30 @@
   <a href="https://hackingepico.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/hackingepico.com-blue?style=for-the-badge&logo=github"></a>
 </p>
 
-<!--
-<p align="center">
-  <a href="https://app.hackthebox.com/profile/1357718" target="_blank">
-    <img src="http://www.hackthebox.eu/badge/image/1357718" alt="HackTheBox">
-  </a>
-</p>
--->
+<br>
 
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4ndymcfly&theme=github_dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ndymcfly&theme=github_dark)
+
+<br>
+
+## HackTheBox Profile
+
+<p align="left">
+  <a href="https://app.hackthebox.com/profile/1357718" target="_blank">
+    <img src="http://www.hackthebox.eu/badge/image/1357718" alt="HackTheBox">
+  </a>
+</p>
+
+## [+ Info](https://www.credential.net/profile/andrslorenteesquiva893674/wallet)
+
+<br>
+
+![image_more_info](https://github.com/user-attachments/assets/3ed0e6e5-a489-40ba-9956-0d2dcefdcff6)
+
+<br>
 
 <br>
 

@@ -23,9 +23,9 @@
 ## [+ Info](https://www.credential.net/profile/andrslorenteesquiva893674/wallet)
 
 ![image_more_info](https://github.com/user-attachments/assets/3ed0e6e5-a489-40ba-9956-0d2dcefdcff6)
--->
-<br>
 
+<br>
+-->
 ## HackTheBox Profile
 
 <p align="left">

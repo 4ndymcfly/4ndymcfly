@@ -17,12 +17,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4ndymcfly&theme=github_dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ndymcfly&theme=github_dark)
 
+<!--
 <br>
 
 ## [+ Info](https://www.credential.net/profile/andrslorenteesquiva893674/wallet)
 
 ![image_more_info](https://github.com/user-attachments/assets/3ed0e6e5-a489-40ba-9956-0d2dcefdcff6)
-
+-->
 <br>
 
 ## HackTheBox Profile

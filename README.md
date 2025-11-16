@@ -17,7 +17,7 @@
   <a href="https://app.hackthebox.com/profile/1357718" target="_blank">
     <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
   </a>
-  <a href="mailto:andreslorente.dev@gmail.com">
+  <a href="mailto:andreslorente79@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -220,19 +220,19 @@ print(me.get_professional_summary())
 <div align="center">
 
 <a href="https://github.com/4ndymcfly/4ndy-bspwm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=4ndy-bspwm&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=4ndy-bspwm&theme=algolia&hide_border=true&title_color=00D9FF&text_color=ffffff" />
 </a>
 
 <a href="https://github.com/4ndymcfly/xpather">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=xpather&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=xpather&theme=algolia&hide_border=true&title_color=00D9FF&text_color=ffffff" />
 </a>
 
 <a href="https://github.com/4ndymcfly/choice-nmap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=choice-nmap&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=choice-nmap&theme=algolia&hide_border=true&title_color=00D9FF&text_color=ffffff" />
 </a>
 
 <a href="https://github.com/4ndymcfly/grepanizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=grepanizer&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=grepanizer&theme=algolia&hide_border=true&title_color=00D9FF&text_color=ffffff" />
 </a>
 
 </div>
@@ -260,7 +260,7 @@ print(me.get_professional_summary())
 <tr>
 <td align="center" width="33%">
 
-### 🖥️
+<img src="https://cdn-icons-png.flaticon.com/512/2282/2282188.png" width="80" height="80"/>
 
 **Deep Infrastructure Knowledge**
 
@@ -269,7 +269,7 @@ print(me.get_professional_summary())
 </td>
 <td align="center" width="33%">
 
-### 🛡️
+<img src="https://cdn-icons-png.flaticon.com/512/6195/6195699.png" width="80" height="80"/>
 
 **Security-First Mindset**
 
@@ -278,7 +278,7 @@ Combining SysAdmin experience with offensive security creates a unique perspecti
 </td>
 <td align="center" width="33%">
 
-### ⚡
+<img src="https://cdn-icons-png.flaticon.com/512/10701/10701782.png" width="80" height="80"/>
 
 **Automation Expert**
 
@@ -296,15 +296,15 @@ Proficient in automating security workflows, infrastructure deployment, and crea
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4ndymcfly&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndymcfly&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4ndymcfly&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndymcfly&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4ndymcfly&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4ndymcfly&theme=algolia&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -353,25 +353,29 @@ Proficient in automating security workflows, infrastructure deployment, and crea
 
 ```mermaid
 graph TB
-    A[20+ Years SysAdmin] --> B[IT Infrastructure Expert]
-    B --> C[Cloud Architecture]
-    B --> D[Security Hardening]
-    C --> E[DevOps & Automation]
-    D --> F[eJPTv2 ✅]
-    F --> G[OSCP 🔄]
-    G --> H[OSWE 📋]
-    G --> I[CRTP 📋]
-    H --> J[Senior Pentester]
-    I --> J
-    E --> K[AI Automation Expert]
-    J --> L[Red Team / Security Architect 🎯]
-    K --> L
+    A[20+ Years SysAdmin] --> B[Windows Server & Linux Admin ✅]
+    A --> C[IT Infrastructure Expert ✅]
+    C --> D[Cloud Architecture ✅]
+    C --> E[Security Hardening]
+    D --> F[DevOps & Automation ✅]
+    E --> G[eJPTv2 ✅]
+    G --> H[OSCP 🔄]
+    H --> I[OSWE 📋]
+    H --> J[CRTP 📋]
+    I --> K[Senior Pentester]
+    J --> K
+    F --> L[AI Automation Expert]
+    K --> M[Red Team / Security Architect 🎯]
+    L --> M
 
     style A fill:#4CAF50,stroke:#4CAF50,stroke-width:3px,color:#fff
-    style B fill:#2196F3,stroke:#2196F3,stroke-width:2px,color:#fff
-    style F fill:#00ff00,stroke:#00ff00,stroke-width:2px,color:#000
-    style G fill:#ffff00,stroke:#ffff00,stroke-width:3px,color:#000
-    style L fill:#ff0000,stroke:#ff0000,stroke-width:3px,color:#fff
+    style B fill:#00C853,stroke:#00C853,stroke-width:2px,color:#fff
+    style C fill:#00C853,stroke:#00C853,stroke-width:2px,color:#fff
+    style D fill:#00C853,stroke:#00C853,stroke-width:2px,color:#fff
+    style F fill:#00C853,stroke:#00C853,stroke-width:2px,color:#fff
+    style G fill:#00ff00,stroke:#00ff00,stroke-width:2px,color:#000
+    style H fill:#ffff00,stroke:#ffff00,stroke-width:3px,color:#000
+    style M fill:#ff0000,stroke:#ff0000,stroke-width:3px,color:#fff
 ```
 
 **Legend:** ✅ Completed | 🔄 In Progress | 📋 Planned | 🎯 Career Goal
@@ -491,8 +495,8 @@ I'm open to discussing **cybersecurity, cloud infrastructure, automation project
 </p>
 
 <p>
-  <a href="mailto:andreslorente.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-andreslorente.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:andreslorente79@gmail.com">
+    <img src="https://img.shields.io/badge/Email-andreslorente79@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/4ndymcfly">
     <img src="https://img.shields.io/badge/GitHub-@4ndymcfly-181717?style=for-the-badge&logo=github"/>

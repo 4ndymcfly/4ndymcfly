@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Andrés%20Lorente&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20SysAdmin%20%7C%20Cybersecurity%20Specialist%20%7C%20Cloud%20and%20DevOps&descSize=16&descAlignY=51" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=100&lines=20%2B+Years+SysAdmin+Expert+%7C+Windows+and+Linux;Cloud+Infrastructure+(AWS+%7C+Oracle)+%7C+DevOps;Cybersecurity+%7C+eJPTv2+%7C+OSCP+Track;AI+Automation+%7C+Network+Security+%7C+IT+Support" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=100&lines=20%2B+Years+SysAdmin+Expert+%7C+Windows+and+Linux;Cloud+Infrastructure+(AWS+%7C+Oracle)+%7C+DevOps;Cybersecurity+%7C+eJPTv2+%7C+OSCP+Track;AI+Automation+%7C+Network+Security+%7C+IT+Support" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <p align="center">
@@ -259,7 +259,8 @@ print(me.get_professional_summary())
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/server.png" width="60"/>
+
+### 🖥️
 
 **Deep Infrastructure Knowledge**
 
@@ -267,7 +268,8 @@ print(me.get_professional_summary())
 
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/security-shield-green.png" width="60"/>
+
+### 🛡️
 
 **Security-First Mindset**
 
@@ -275,7 +277,8 @@ Combining SysAdmin experience with offensive security creates a unique perspecti
 
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/automation.png" width="60"/>
+
+### ⚡
 
 **Automation Expert**
 

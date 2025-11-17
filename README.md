@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,6,20&height=180&section=header&text=Andrés%20Lorente&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20SysAdmin%20%7C%20Cybersecurity%20Specialist%20%7C%20Cloud%20and%20DevOps&descSize=16&descAlignY=51" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=80&lines=Senior+SysAdmin+%7C+Windows+and+Linux+%7C+Cloud+(AWS+%7C+Oracle);Cybersecurity+Specialist+%7C+eJPTv2+Certified+%7C+OSCP+Track" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=80&lines=Senior+SysAdmin+%7C+Windows+%26+Linux+%7C+Cloud+(AWS+%7C+Oracle);Cybersecurity+Specialist+%7C+eJPTv2+Certified+%7C+OSCP+Track" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <p align="center">

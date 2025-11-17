@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Andrés%20Lorente&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20SysAdmin%20%7C%20Cybersecurity%20Specialist%20%7C%20Cloud%20and%20DevOps&descSize=16&descAlignY=51" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,6,20&height=180&section=header&text=Andrés%20Lorente&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20SysAdmin%20%7C%20Cybersecurity%20Specialist%20%7C%20Cloud%20and%20DevOps&descSize=16&descAlignY=51" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=100&lines=20%2B+Years+SysAdmin+Expert+%7C+Windows+and+Linux;Cloud+Infrastructure+(AWS+%7C+Oracle)+%7C+DevOps;Cybersecurity+%7C+eJPTv2+%7C+OSCP+Track;AI+Automation+%7C+Network+Security+%7C+IT+Support" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=100&lines=Senior+SysAdmin+%7C+Windows+and+Linux+Expert;Cloud+Infrastructure+(AWS+%7C+Oracle)+%7C+DevOps;Cybersecurity+%7C+eJPTv2+%7C+OSCP+Track;AI+Automation+%7C+Network+Security+%7C+IT+Support" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <p align="center">
@@ -43,7 +43,7 @@ class SeniorSysAdminAndSecuritySpecialist:
         self.name = "Andrés Lorente"
         self.role = "Senior Systems Administrator & Cybersecurity Specialist"
         self.location = "Málaga, Spain 🇪🇸"
-        self.experience = "20+ years in IT Infrastructure & Systems Administration"
+        self.experience = "Amplia experiencia en IT Infrastructure & Systems Administration"
         self.education = "42 Málaga Student"
         self.certifications = ["eJPTv2"]
         self.current_focus = "OSCP Certification & Advanced Security"
@@ -57,7 +57,7 @@ class SeniorSysAdminAndSecuritySpecialist:
                 "DevOps & Automation",
                 "IT Support & Infrastructure Management"
             ],
-            "transition_path": "Leveraging 20+ years of SysAdmin experience to specialize in offensive security and penetration testing",
+            "transition_path": "Leveraging extensive SysAdmin experience to specialize in offensive security and penetration testing",
             "unique_value": "Deep understanding of infrastructure + security mindset = comprehensive protection strategies"
         }
 
@@ -82,7 +82,7 @@ print(me.get_professional_summary())
 
 <div align="center">
 
-### 🏆 20+ Years of Systems Administration Excellence
+### 🏆 Senior Systems Administration Excellence
 
 </div>
 
@@ -139,7 +139,7 @@ print(me.get_professional_summary())
 | 🎖️ **eJPTv2** (eLearnSecurity Junior Penetration Tester) | ✅ Certified | 2024 | Offensive Security |
 | 🎯 **OSCP** (Offensive Security Certified Professional) | 🔄 In Progress | 2025 | Advanced Pentesting |
 | 🏫 **42 Málaga** (Computer Science Curriculum) | 📚 Student | Ongoing | Software Engineering |
-| 💼 **20+ Years SysAdmin Experience** | ✅ Proven Track Record | 2000-2025 | Enterprise IT |
+| 💼 **Senior SysAdmin Experience** | ✅ Proven Track Record | 2000-2025 | Enterprise IT |
 
 </div>
 
@@ -220,19 +220,19 @@ print(me.get_professional_summary())
 <div align="center">
 
 <a href="https://github.com/4ndymcfly/4ndy-bspwm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=4ndy-bspwm&theme=algolia&hide_border=true&title_color=00D9FF&text_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=4ndy-bspwm&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=00000000" />
 </a>
 
-<a href="https://github.com/4ndymcfly/xpather">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=xpather&theme=algolia&hide_border=true&title_color=00D9FF&text_color=ffffff" />
+<a href="https://github.com/4ndymcfly/42-env-en">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=42-env-en&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=00000000" />
 </a>
 
 <a href="https://github.com/4ndymcfly/choice-nmap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=choice-nmap&theme=algolia&hide_border=true&title_color=00D9FF&text_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=choice-nmap&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=00000000" />
 </a>
 
 <a href="https://github.com/4ndymcfly/grepanizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=grepanizer&theme=algolia&hide_border=true&title_color=00D9FF&text_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=grepanizer&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=00000000" />
 </a>
 
 </div>
@@ -242,11 +242,11 @@ print(me.get_professional_summary())
 | Project | Category | Description | Tech Stack |
 |---------|----------|-------------|------------|
 | [**4ndy-bspwm**](https://github.com/4ndymcfly/4ndy-bspwm) | 🔧 Infrastructure | Professional Kali Linux hacking environment with bspwm. 144 automated tests, CI/CD, security hardened. | Bash, Python, Docker, CI/CD |
-| [**xpather**](https://github.com/4ndymcfly/xpather) | 🔐 Security | XML document brute force analysis tool for penetration testing | Python, XML |
+| [**42-env-en**](https://github.com/4ndymcfly/42-env-en) | 🎓 Education | Configuration automation script for 42 school students | Bash |
 | [**choice-nmap**](https://github.com/4ndymcfly/choice-nmap) | 🔍 Network | Interactive network scanning interface with enhanced nmap output parsing | Bash, Nmap |
 | [**grepanizer**](https://github.com/4ndymcfly/grepanizer) | 📊 Analysis | Advanced nmap output analyzer for IP range scans and reporting | Bash, Regex |
 | [**addd**](https://github.com/4ndymcfly/addd) | ⚙️ Automation | Bash utility for managing /etc/hosts entries during pentesting engagements | Bash |
-| [**42env**](https://github.com/4ndymcfly/42env) | 🎓 Education | Configuration automation script for 42 school students | Bash |
+| [**xpather**](https://github.com/4ndymcfly/xpather) | 🔐 Security | XML document brute force analysis tool for penetration testing | Python, XML |
 
 ---
 
@@ -260,29 +260,29 @@ print(me.get_professional_summary())
 <tr>
 <td align="center" width="33%">
 
-<img src="https://cdn-icons-png.flaticon.com/512/2282/2282188.png" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/serverfault.svg" width="80" height="80" style="filter: invert(43%) sepia(96%) saturate(1567%) hue-rotate(164deg) brightness(101%) contrast(101%);"/>
 
 **Deep Infrastructure Knowledge**
 
-20+ years managing enterprise systems provides unparalleled understanding of infrastructure vulnerabilities and attack surfaces
+Amplia experiencia gestionando sistemas empresariales proporciona comprensión excepcional de vulnerabilidades de infraestructura y superficies de ataque
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://cdn-icons-png.flaticon.com/512/6195/6195699.png" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" width="80" height="80" style="filter: invert(43%) sepia(96%) saturate(1567%) hue-rotate(164deg) brightness(101%) contrast(101%);"/>
 
 **Security-First Mindset**
 
-Combining SysAdmin experience with offensive security creates a unique perspective for both attacking and defending systems
+Combinando experiencia SysAdmin con seguridad ofensiva crea una perspectiva única para atacar y defender sistemas
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://cdn-icons-png.flaticon.com/512/10701/10701782.png" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ansible.svg" width="80" height="80" style="filter: invert(43%) sepia(96%) saturate(1567%) hue-rotate(164deg) brightness(101%) contrast(101%);"/>
 
 **Automation Expert**
 
-Proficient in automating security workflows, infrastructure deployment, and creating AI-powered solutions
+Experto en automatización de flujos de seguridad, despliegue de infraestructura y creación de soluciones potenciadas por IA
 
 </td>
 </tr>
@@ -296,22 +296,22 @@ Proficient in automating security workflows, infrastructure deployment, and crea
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4ndymcfly&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndymcfly&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4ndymcfly&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndymcfly&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4ndymcfly&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4ndymcfly&theme=transparent&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4ndymcfly&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4ndymcfly&theme=react-dark&hide_border=true&area=true&bg_color=00000000" width="100%"/>
 
 </div>
 
@@ -353,7 +353,7 @@ Proficient in automating security workflows, infrastructure deployment, and crea
 
 ```mermaid
 graph TB
-    A[20+ Years SysAdmin] --> B[Windows Server & Linux Admin ✅]
+    A[Senior SysAdmin] --> B[Windows Server & Linux Admin ✅]
     A --> C[IT Infrastructure Expert ✅]
     C --> D[Cloud Architecture ✅]
     C --> E[Security Hardening]
@@ -368,14 +368,14 @@ graph TB
     K --> M[Red Team / Security Architect 🎯]
     L --> M
 
-    style A fill:#4CAF50,stroke:#4CAF50,stroke-width:3px,color:#fff
-    style B fill:#00C853,stroke:#00C853,stroke-width:2px,color:#fff
-    style C fill:#00C853,stroke:#00C853,stroke-width:2px,color:#fff
-    style D fill:#00C853,stroke:#00C853,stroke-width:2px,color:#fff
-    style F fill:#00C853,stroke:#00C853,stroke-width:2px,color:#fff
-    style G fill:#00ff00,stroke:#00ff00,stroke-width:2px,color:#000
-    style H fill:#ffff00,stroke:#ffff00,stroke-width:3px,color:#000
-    style M fill:#ff0000,stroke:#ff0000,stroke-width:3px,color:#fff
+    style A fill:#5B5FFF,stroke:#5B5FFF,stroke-width:3px,color:#fff
+    style B fill:#4169E1,stroke:#4169E1,stroke-width:2px,color:#fff
+    style C fill:#4169E1,stroke:#4169E1,stroke-width:2px,color:#fff
+    style D fill:#4169E1,stroke:#4169E1,stroke-width:2px,color:#fff
+    style F fill:#4169E1,stroke:#4169E1,stroke-width:2px,color:#fff
+    style G fill:#1E90FF,stroke:#1E90FF,stroke-width:2px,color:#fff
+    style H fill:#9370DB,stroke:#9370DB,stroke-width:3px,color:#fff
+    style M fill:#8B5CF6,stroke:#8B5CF6,stroke-width:3px,color:#fff
 ```
 
 **Legend:** ✅ Completed | 🔄 In Progress | 📋 Planned | 🎯 Career Goal
@@ -457,7 +457,7 @@ AI-Powered Security
 ```bash
 $ cat professional_strengths.txt
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✅ 20+ years enterprise IT experience
+✅ Senior SysAdmin with extensive enterprise IT experience
 ✅ Deep understanding of Windows & Linux infrastructure
 ✅ Hands-on cybersecurity skills (eJPTv2 certified)
 ✅ Cloud expertise (AWS, Oracle Cloud)
@@ -556,7 +556,7 @@ $ cat about_me.sh
 📚 Perpetual learner: 42 School + self-study addict
 🛠️ Tool builder: If it doesn't exist, I'll code it
 🔐 Security mindset: Always thinking like an attacker
-💻 Infrastructure nerd: 20+ years and still loving it
+💻 Infrastructure nerd: Senior SysAdmin still loving it
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -566,26 +566,12 @@ $ cat about_me.sh
 
 <div align="center">
 
-### 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4ndymcfly/4ndymcfly/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4ndymcfly/4ndymcfly/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/4ndymcfly/4ndymcfly/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,6,20&height=100&section=footer" width="100%"/>
 
 ### 💭 Final Thoughts
 
-> *"With 20+ years in systems administration, I've seen both sides of the fence. Now, I'm leveraging that experience to think like an attacker while building secure infrastructure. The best defenders understand how attackers think."*
+> *"Como Senior SysAdmin, he visto ambos lados de la valla. Ahora, aprovecho esa experiencia para pensar como un atacante mientras construyo infraestructuras seguras. Los mejores defensores entienden cómo piensan los atacantes."*
 
 **Thank you for visiting my profile!** ⭐
 *If you find my projects useful or want to collaborate, don't hesitate to reach out!* 🚀

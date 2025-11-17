@@ -223,8 +223,8 @@ print(me.get_professional_summary())
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=4ndy-bspwm&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=00000000" />
 </a>
 
-<a href="https://github.com/4ndymcfly/42-env-en">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=42-env-en&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=00000000" />
+<a href="https://github.com/4ndymcfly/42env-en">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=42env-en&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=00000000" />
 </a>
 
 <a href="https://github.com/4ndymcfly/choice-nmap">
@@ -242,7 +242,7 @@ print(me.get_professional_summary())
 | Project | Category | Description | Tech Stack |
 |---------|----------|-------------|------------|
 | [**4ndy-bspwm**](https://github.com/4ndymcfly/4ndy-bspwm) | 🔧 Infrastructure | Professional Kali Linux hacking environment with bspwm. 144 automated tests, CI/CD, security hardened. | Bash, Python, Docker, CI/CD |
-| [**42-env-en**](https://github.com/4ndymcfly/42-env-en) | 🎓 Education | Configuration automation script for 42 school students | Bash |
+| [**42env-en**](https://github.com/4ndymcfly/42env-en) | 🎓 Education | Configuration automation script for 42 school students | Bash |
 | [**choice-nmap**](https://github.com/4ndymcfly/choice-nmap) | 🔍 Network | Interactive network scanning interface with enhanced nmap output parsing | Bash, Nmap |
 | [**grepanizer**](https://github.com/4ndymcfly/grepanizer) | 📊 Analysis | Advanced nmap output analyzer for IP range scans and reporting | Bash, Regex |
 | [**addd**](https://github.com/4ndymcfly/addd) | ⚙️ Automation | Bash utility for managing /etc/hosts entries during pentesting engagements | Bash |

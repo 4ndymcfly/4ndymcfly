@@ -173,8 +173,8 @@ Expert at automating security workflows, infrastructure deployment, and AI-power
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4ndymcfly&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndymcfly&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4ndymcfly&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndymcfly&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff"/>
 
 </div>
 

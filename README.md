@@ -173,14 +173,14 @@ Expert at automating security workflows, infrastructure deployment, and AI-power
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4ndymcfly&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndymcfly&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4ndymcfly&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndymcfly&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4ndymcfly&theme=transparent&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=4ndymcfly&theme=transparent&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 
 </div>
 

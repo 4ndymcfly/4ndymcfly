@@ -112,15 +112,35 @@ Leveraging 20+ years of enterprise IT infrastructure experience to specialize in
 
 <div align="center">
 
-<a href="https://github.com/4ndymcfly/4ndy-bspwm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=4ndy-bspwm&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=00000000&t=1" />
-</a>
-
-<a href="https://github.com/4ndymcfly/addd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=addd&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=00000000&t=1" />
-</a>
+[![4ndy-bspwm](https://img.shields.io/badge/🎨_4ndy--bspwm-Professional_Kali_Pentesting_Environment-00D9FF?style=for-the-badge)](https://github.com/4ndymcfly/4ndy-bspwm)
+[![addd](https://img.shields.io/badge/⚡_addd-Quick_/etc/hosts_Manager-00D9FF?style=for-the-badge)](https://github.com/4ndymcfly/addd)
 
 </div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### [🎨 4ndy-bspwm](https://github.com/4ndymcfly/4ndy-bspwm)
+Professional Kali Linux pentesting environment with 144 automated tests
+
+**Tech:** Bash, Python, Docker, CI/CD
+
+⭐ Featured pentesting workspace setup
+
+</td>
+<td width="50%" valign="top">
+
+### [⚡ addd](https://github.com/4ndymcfly/addd)
+Small script written in Bash to quickly add domain names and their IPs in /etc/hosts
+
+**Tech:** Bash scripting
+
+⭐ Quick /etc/hosts management tool
+
+</td>
+</tr>
+</table>
 
 ### 🛠️ Security & Automation Tools
 

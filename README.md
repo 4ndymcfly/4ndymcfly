@@ -113,11 +113,11 @@ Leveraging 20+ years of enterprise IT infrastructure experience to specialize in
 <div align="center">
 
 <a href="https://github.com/4ndymcfly/4ndy-bspwm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=4ndy-bspwm&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=4ndy-bspwm&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=00000000&t=1" />
 </a>
 
 <a href="https://github.com/4ndymcfly/addd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=addd&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4ndymcfly&repo=addd&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=00000000&t=1" />
 </a>
 
 </div>
@@ -173,8 +173,8 @@ Expert at automating security workflows, infrastructure deployment, and AI-power
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4ndymcfly&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndymcfly&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4ndymcfly&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&t=1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndymcfly&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff&t=1"/>
 
 </div>
 

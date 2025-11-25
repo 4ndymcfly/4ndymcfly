@@ -206,7 +206,7 @@ Expert at automating security workflows, infrastructure deployment, and AI-power
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=4ndymcfly&theme=dark&hide_border=true&border_radius=5&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4ndymcfly&theme=dark&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
 </div>
 

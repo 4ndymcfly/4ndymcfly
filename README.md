@@ -206,14 +206,7 @@ Expert at automating security workflows, infrastructure deployment, and AI-power
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4ndymcfly&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4ndymcfly&theme=transparent)
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=4ndymcfly&theme=transparent&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=4ndymcfly&theme=dark&hide_border=true&border_radius=5&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 

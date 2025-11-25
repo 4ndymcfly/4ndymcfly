@@ -173,8 +173,21 @@ Expert at automating security workflows, infrastructure deployment, and AI-power
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4ndymcfly&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&t=1"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndymcfly&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff&t=1"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4ndymcfly&theme=transparent)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4ndymcfly&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4ndymcfly&theme=transparent&utcOffset=1)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4ndymcfly&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4ndymcfly&theme=transparent)
 
 </div>
 

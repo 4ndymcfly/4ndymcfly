@@ -193,12 +193,6 @@ Expert at automating security workflows, infrastructure deployment, and AI-power
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4ndymcfly&theme=transparent)
-
-</div>
-
-<div align="center">
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4ndymcfly&theme=transparent)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4ndymcfly&theme=transparent&utcOffset=1)
 
@@ -206,7 +200,7 @@ Expert at automating security workflows, infrastructure deployment, and AI-power
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4ndymcfly&theme=dark&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4ndymcfly&theme=transparent)
 
 </div>
 
